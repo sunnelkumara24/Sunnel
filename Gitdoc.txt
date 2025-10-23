@@ -1,1 +1,7 @@
+	Git 			: To check the git is installed or not
+	Git init		: To initialize the git 
+	Git status		: To check the status of the git
+	Git add		: To add the files from working directory to staging area
+	Git commit	: To add the files from staging area to local repositories
+	Git push		: To add the files form local repositories to Remote repositories.
 
