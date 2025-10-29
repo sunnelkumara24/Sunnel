@@ -1,0 +1,15 @@
+﻿entitlement_value,entitlement_glossary,displayname,Description,securitysystem,endpoint,entitlementtype,soxcritical
+view_fk_products,,view_fk_products,Ability to browse the product catalog and view details.,Flipkart  Security System,FLIPKART,Role,NONE
+checkout_fk_purchase,,checkout_fk_purchase,Rights to complete the checkout process and make a purchase,Flipkart  Security System,FLIPKART,Role,NONE
+track_fk-order,,track_fk-order,Permission to view the status of an existing order.,Flipkart  Security System,FLIPKART,Role,NONE
+manage_fk_profile,,manage_fk_profile,"Ability to edit personal information, payment methods, and shipping addresses",Flipkart  Security System,FLIPKART,Role,NONE
+manage_fk_inventory,,manage_fk_inventory,"Ability to add, update, and remove products from the catalog.",Flipkart  Security System,FLIPKART,Role,NONE
+process_fk_refunds,,process_fk_refunds,Permission to issue refunds for orders,Flipkart  Security System,FLIPKART,Role,NONE
+view_fk_sales_reports,,view_fk_sales_reports,Ability to access and generate reports on sales performance.,Flipkart  Security System,FLIPKART,Role,NONE
+manage_fk_user_accounts,,manage_fk_user_accounts,"Rights to view, suspend, or reactivate user accounts. ",Flipkart  Security System,FLIPKART,Role,NONE
+Account_fk_Manager,,Account_fk_Manager,"View a customer's information, but only for accounts assigned to the account manager.",Flipkart  Security System,FLIPKART,Role,NONE
+Sales_fk_Rep,,Sales_fk_Rep,Add a new potential customer to the system.,Flipkart  Security System,FLIPKART,Role,NONE
+Marketing_fk_Director,,Marketing_fk_Director,Create and launch marketing campaigns within the application,Flipkart  Security System,FLIPKART,Role,NONE
+Support_fk_Agent,,Support_fk_Agent,Read and update customer support tickets.,Flipkart  Security System,FLIPKART,Role,NONE
+Auditor(fk),,Auditor(fk),"Permission for an auditor to view a list of payments, but not to submit or approve them.",Flipkart  Security System,FLIPKART,Role,NONE
+VP_fk_Finance,,VP_fk_Finance,Rights for a finance VP to approve high-value transactions.,Flipkart  Security System,FLIPKART,Role,NONE
