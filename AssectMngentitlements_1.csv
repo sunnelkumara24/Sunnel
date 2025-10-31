@@ -1,0 +1,15 @@
+﻿entitlement_value,entitlement_glossary,displayname,Description,securitysystem,endpoint,entitlementtype,soxcritical
+view_products,,view_products,Ability to browse the product catalog and view details.,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+checkout_purchase,,checkout_purchase,Rights to complete the checkout process and make a purchase,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+track_order,,track_order,Permission to view the status of an existing order.,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+manage_profile,,manage_profile,"Ability to edit personal information, payment methods, and shipping addresses",Amezon  Security System,AMEZON,Amezon Management Role,NONE
+manage_inventory,,manage_inventory,"Ability to add, update, and remove products from the catalog.",Amezon  Security System,AMEZON,Amezon Management Role,NONE
+process_refunds,,process_refunds,Permission to issue refunds for orders,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+view_sales_reports,,view_sales_reports,Ability to access and generate reports on sales performance.,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+manage_user_accounts,,manage_user_accounts,"Rights to view, suspend, or reactivate user accounts. ",Amezon  Security System,AMEZON,Amezon Management Role,NONE
+Account_Manager,,Account_Manager,"View a customer's information, but only for accounts assigned to the account manager.",Amezon  Security System,AMEZON,Amezon Management Role,NONE
+Sales_Rep,,Sales_Rep,Add a new potential customer to the system.,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+Marketing_Director,,Marketing_Director,Create and launch marketing campaigns within the application,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+Support_Agent,,Support_Agent,Read and update customer support tickets.,Amezon  Security System,AMEZON,Amezon Management Role,NONE
+Auditor,,Auditor,"Permission for an auditor to view a list of payments, but not to submit or approve them.",Amezon  Security System,AMEZON,Amezon Management Role,NONE
+VP_Finance,,VP_Finance,Rights for a finance VP to approve high-value transactions.,Amezon  Security System,AMEZON,Amezon Management Role,NONE
